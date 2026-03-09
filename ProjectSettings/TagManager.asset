@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Sacrifice
+  - PC
   layers:
   - Default
   - TransparentFX
